@@ -1,0 +1,83 @@
+h1 {
+    font-weight: 700;
+    font-size: 60px;
+    color: #FF4081; 
+    margin: 0;
+ }
+ 
+.divisao-1 {
+    padding: 81px 0 95px 82px;
+}
+
+.edu-fina {
+     font-weight: 400;
+     font-size: 20px;
+     color: #555555;
+     margin: 0;
+     
+ }
+
+.texto-1 {
+    padding: 198px 0 0 82px;
+ }
+ 
+.conteudo {
+    display: flex;
+    padding: 0 0 68px 82px;
+     
+  
+ }
+ 
+article {
+     display: block;
+     padding: 25px 0 0 53px;
+     
+ }
+ 
+img {
+     width: 380px;
+     height: 381px;
+     padding: 0 0 0 112px;
+ }
+ 
+h2 {
+     font-weight: 700;
+     font-size: 35px;
+     color: #FF4081;
+     padding: 0 0 37px ;
+     display: block;
+     margin: 0;
+ }
+ 
+.sed-ut {
+     font-weight: 300;
+     font-size: 18px;
+     color: #000000;
+     margin: 0;
+     padding: 0 0 53px;
+     width: 724px;
+     height: 105px;
+     display: block;
+ }
+
+.link-1 {
+    display: block;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+    background: #419488;
+    border-radius: 62px;
+    padding: 13px 8px 13px 8px;
+    width: 190px;
+    text-align: center;
+} 
+ 
+.linha-horizontal {
+     width: 1244px;
+     height: 5px;
+     background-color: #C4C4C4;
+     border: 1px solid #C4C4C4;
+     margin: 0 0 107px 82px;
+     
+ }

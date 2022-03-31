@@ -1,0 +1,105 @@
+.tex-1 {
+    font-weight: 500;
+    font-size: 50px;
+    color: #FF4081;
+    margin: 0;
+    display: block;
+    text-align: center;
+    padding: 74px 0 0 0;
+}
+
+.tex-2 {
+    font-weight: 300;
+    font-size: 18px;
+    color: #9D9D9D;
+    display: block;
+    margin: 0;
+    text-align: center;
+    padding: 0 0 111px;
+}
+
+.image-1 {
+    width: 1032px;
+    height: 465px;
+    margin: 0 0 24px 204px;
+}
+
+.t-1 {
+margin: 0 0 70px 204px;
+}
+
+p {
+   font-weight: 300;
+   font-size: 18px;
+   width: 1032px; 
+   margin: 35px 0 30px 204px ;
+}
+
+.tex-3 {
+    font-weight: 500;
+    font-size: 26px;
+    color: #009688;
+    margin: 0 0 0 204px;
+}
+
+.sec-1 {
+    margin: 0 0 200px 0;
+}
+
+.sec-2 {
+    background: #F6F6F6;
+}
+
+.tex-4 {
+    font-weight: 500;
+    font-size: 50px;
+    color: #FF4081;
+    text-align: center;
+    padding: 79px 0 111px 0;
+    margin: 0;
+}
+
+.art-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0 0 98px 0;
+}
+
+.image-2 {
+    width: 288px;
+    height: 279px;
+    padding: 0 0 50px 0;
+    margin: 10px 0 0 25px;
+}
+
+.tex-5 {
+    font-weight: 700;
+    font-size: 25px;
+    color: #FF4081;
+    display: block;
+    padding: 0 0 28px 0;
+    text-align: center;
+}
+
+.tex-6 {
+    font-weight: 300;
+    font-size: 17px;
+    color: #000000;
+    padding: 0 0 70px 0;
+    display: block;
+    width: 293px;
+    text-align: center;
+}
+
+.lin-1 {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: #F6F6F6;
+    padding: 18px 45px 18px 45px;
+    background: #FF4081;
+    border-radius: 62px;
+    margin: 0 0 0 40px;
+    
+}

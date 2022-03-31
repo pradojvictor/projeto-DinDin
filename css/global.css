@@ -1,0 +1,128 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+header {
+    background: #2E948A;
+    display: flex;
+    justify-content: center;
+}
+
+header h4 a {
+    color: transparent;
+    display: block;
+    background: url('../dindin-imagens/logo-header.png') 0 0 no-repeat;
+    width: 244px;
+    height: 77px;
+    margin: 0 0 0 83px;
+    
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center ;
+    margin: 0 103px;
+    align-items: center;
+    align-content: center;
+    height: 100%;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+header nav a {
+    color: #FDFDFD;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0 19px;
+
+}
+
+footer {
+    background: #419488;
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer h4 a {
+    color: transparent;
+    display: block;
+    background: url('../dindin-imagens/logo-footer.png') 0 0 no-repeat;
+    width: 312px;
+    height: 100px;
+    margin: 30px
+}
+
+footer ul {
+    margin: 0;
+    padding: 40px 0 42px;
+    margin: 30px 0 0 ;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer a {
+    color: #FDFDFD;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: lowercase;
+
+}
+.quero-ser {
+    margin: 0 20px;
+    
+}
+
+.quero-ser a {
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+    padding: 14px 41px; 
+    margin: 13px;
+    text-align: center;
+    display: block;
+}
+
+@media only screen and (max-width: 769px) {
+    .container {
+        width: 720px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+}
+
+@media only screen and (max-width: 481px) {
+    .container {
+        width: 440px;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+       
+    }
+
+
+    
+    header nav ul {
+        margin: 0 0 50px;
+    }
+
+    .quero-ser a {
+        width: 60%;
+
+    }
+}
+
+

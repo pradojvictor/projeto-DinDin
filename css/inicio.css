@@ -1,0 +1,210 @@
+
+.divisao-1 {  
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.divisao-1 article {
+    padding: 125px 0 0 120px;
+}
+
+.divisao-1 img {
+    padding: 135px 0 0 39px;
+}
+
+.divisao-1 h1 {
+    font-weight: 700;
+    font-size: 60px;
+    color: #FF4081;
+    margin: 0;
+}
+
+.divisao-1 span {
+font-weight: 400;
+font-size: 27px;
+color: #555555;
+
+   
+}
+
+.divisao-1 a {
+    font-weight: 400;
+    font-size: 27px;
+    color: #FF4081;
+    display: block;
+    width: 220px;
+    padding: 9px 26px 9px 26px;
+    text-decoration: none;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+    margin: 38px 0 201px;
+}
+
+.divisao-1 img {
+    width: 501px;
+    height: 511px;
+    margin: 50px;
+}
+
+.divisao-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    background-color: #F6F6F6;
+    
+    height: 730px;
+    flex-wrap: nowrap;
+}
+
+.link-primeiro {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+align-content: center;
+}
+
+.link-primeiro img {
+    width: 288px;
+    height: 270px;
+    display: block;
+    padding: 0 0 45px 28px;
+   
+}
+
+.link-primeiro .texto-1 {
+    font-weight: 700;
+    font-size: 25px;
+    color: #FF4081;
+    display: block;
+    padding: 0 0 23px;
+}
+
+.link-primeiro .texto-2 {
+    font-weight: 300;
+    font-size: 17px;
+    color: #000000;
+    display: block;
+    padding: 0 0 26px;
+    width: 293px;
+    height: 60px;
+    text-align: center;
+}
+
+.link-primeiro a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    display: block;
+    background: #FF4081;
+    border-radius: 62px;
+    width: 233px;
+    padding: 15px 8px 15px 8px;
+}
+
+.divisao-3 {
+    height: 701px;
+}
+.divisao-3 section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    
+    }
+.link-segundo {
+    display: flex;
+    flex-wrap: wrap;
+} 
+    
+.divisao-3 h2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 37px;
+    color: #009688;
+    padding: 119px 0 78px 128px;
+}
+    
+.divisao-3 article {
+    display: flex;
+    width: 495px;
+    height: 104px;
+    padding: 0 0 86px;
+}
+    
+.divisao-3 img {
+    width: 104px;
+    height: 104px;
+}
+
+.divisao-3 .texto-ico {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 0 0 10px 28px; 
+}
+
+.divisao-3 .name-ico {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+    padding: 0 0 0 30px;
+    font-weight: bold
+}
+
+.divisao-4 {
+    background-color: #F6F6F6;
+    height: 730px;
+}
+
+.divisao-4 section {
+    display: flex;
+    justify-content:space-evenly;
+    padding: 0 0 95px;
+}
+
+.divisao-4 h3 {
+    font-weight: 700;
+    font-size: 37px;
+    color: #009688;
+    padding: 91px 0 40px 128px;
+   
+}
+
+.divisao-4 img {
+    width: 319px;
+    height: 193px;
+    padding: 0 0 11px;
+    
+}
+
+.divisao-4 .texto-itaque {
+    font-weight: 700;
+    font-size: 27px;
+    color: #009688;
+    display: block;
+}
+
+.divisao-4 .texto-hic {
+    font-weight: 400;
+    font-size: 18px;
+    width: 319px;
+    height: 114px;
+    display: block;
+    text-align: justify;
+}
+
+.divisao-4 a {
+    font-weight: 400;
+    font-size: 25px;
+    color: #FF4081;
+    padding: 10px 41px 10px 41px;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+    text-decoration: none;
+    margin: 0 0 53px 582px; 
+}

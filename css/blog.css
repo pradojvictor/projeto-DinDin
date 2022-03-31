@@ -1,0 +1,59 @@
+.tex-1 {
+    font-weight: 700;
+    font-size: 47px;
+    color:#009688;
+    margin: 0;
+    height: 108px;
+    width: 400px;
+    padding: 0 0 20px;
+}
+
+.spa-1 {
+    font-weight: 300;
+    font-size: 20px;
+    color: #000000; 
+    width: 461px;
+}
+
+.imag-ilustra {
+    width: 405px;
+    height: 405px;
+    margin: -85px 0 0 74px;
+}
+
+.sec-1 {
+    display: flex;
+    margin: 122px 0 89px 239px; 
+}
+
+.sec-2 {
+    background: #E5E5E5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 109px;
+    margin: 0;
+}
+
+.imag-cinza {
+    width: 518px;
+    height: 259px;
+    padding: 0 0 19px;
+    display: block;
+}
+
+.tex-2 {
+    font-weight: 500;
+    font-size: 30px;
+    color: #FF4081;
+    padding: 0 0 19px;
+    display: block;
+}
+.tex-3 {
+    margin: 0;
+    font-weight: 300;
+    font-size: 17px;
+    color: #000000;
+    width: 516px;
+    padding: 0 0 100px;
+}

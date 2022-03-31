@@ -1,0 +1,3 @@
+Esta pagina foi proposta com um desafio de cinco dias, respondendo nas 
+resoluções de 1440p/768p/480p, sendo como criterio de avaliação sua responsividade 
+e não sua beleza.
