@@ -103,3 +103,92 @@ p {
     margin: 0 0 0 40px;
     
 }
+
+@media only screen and (max-width: 789px) {
+    .image-1 {
+        width: 720px;
+        height: 300px;
+        padding: 0;
+        margin: 0;
+        margin-left: 25px;
+    }
+    .tex-1 {
+        font-size: 40px;
+    }
+    .tex-4 {
+        padding-bottom: 90px;
+    }
+    p {
+        margin: 0;
+        padding: 0;
+        font-size: 18px;
+        width: 720px;
+        text-align: justify;
+        padding-left: 25px;
+        padding-top: 50px;
+    }
+    .t-1 {
+        margin: 0;
+        padding: 0;
+        font-size: 18px;
+        width: 720px;
+        text-align: justify;
+        padding-left: 25px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .tex-3 {
+        margin: 0;
+        padding: 0;
+        padding-left: 25px;
+    }
+    .div-1 {
+        margin-bottom: 100px;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 481px) {
+    .image-1 {
+        width: 450px;
+        height: 200px;
+        padding: 0;
+        margin: 0;
+        margin-left: 15px;
+    }
+    p {
+        margin: 0;
+        padding: 0;
+        font-size: 15px;
+        width: 450px;
+        text-align: justify;
+        padding-left: 15px;
+        padding-top: 50px;
+    }
+    .t-1 {
+        margin: 0;
+        padding: 0;
+        font-size: 15px;
+        width: 450px;
+        text-align: justify;
+        padding-left: 15px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .tex-3 {
+        margin: 0;
+        padding: 0;
+        padding-left: 15px;
+    }
+    .div-1 {
+        margin-bottom: 100px;
+    }
+    .tex-5 {
+        padding-bottom: 0;
+    }
+    .tex-6 {
+        padding-bottom: 50px;
+    }  
+}

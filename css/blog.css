@@ -57,3 +57,45 @@
     width: 516px;
     padding: 0 0 100px;
 }
+
+@media only screen and (max-width: 769px) {
+    .sec-1 {
+        max-width: 750px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 100px;
+    }
+    .imag-ilustra {
+        margin: 0;
+    }
+     
+}
+@media only screen and (max-width: 481px) {
+    .sec-1 {
+        margin: 50px;
+        max-width: 470px;
+    }
+    .imag-cinza {
+       width: 480px;
+    }
+
+    .divi-2 {
+        margin: 0;
+        width: 480px;
+    }
+    .tex-2 {
+        margin-left: 10px;
+    }
+    .tex-3 {
+        width: 440px;
+        height: 98px;
+        text-align: center;
+        margin-left: 15px;
+    }
+    .logo-1 {
+        margin-left:0 ;
+    }
+    
+}
+

@@ -81,3 +81,52 @@ h2 {
      margin: 0 0 107px 82px;
      
  }
+
+ @media only screen and (max-width: 769px) {
+     img {
+         display: none;
+     }
+     .conteudo {
+         padding-left: 25px;
+         width: 400px;
+         margin: 0;
+     }
+     article {
+         padding: 0;
+         margin: 0;
+     }
+     .divisao-1 {
+         padding-left: 25px;
+     }
+
+
+     .linha-horizontal {
+         max-width: 590px;
+     }
+ }
+
+ @media only screen and (max-width: 481px) {
+    .logo-1 {
+        margin-left:0 ;
+    }
+    img {
+        display: none;
+    }
+    h2 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+    .sed-ut {
+        font-size: 15px;
+        width: 400px;
+    }
+    .linha-horizontal {
+        max-width: 450px;
+        margin-left: 10px;
+        height: 2px;
+
+    }
+
+
+
+ }

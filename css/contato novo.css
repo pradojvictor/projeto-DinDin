@@ -1,0 +1,65 @@
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FF4081;
+    padding: 0 0 44px 0;
+    margin: 0;
+}
+fieldset {
+    padding: 0;
+    border: none;
+}
+.input-borde {
+    border: 1px solid #58555D;
+    border-radius: 7px;
+    margin-bottom: 15px;
+    width: 493px;
+    height: 32px;
+}
+.input-borde-mensagem {
+    border: 1px solid #686868;
+    border-radius: 7px;
+    width: 493px;
+    height: 193px;
+    margin-bottom: 15px;
+}
+.butom {
+    font-weight: 800;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #FF4081;
+    border-radius: 50px;
+    border: none;
+    width: 108px;
+    height: 32px;
+}
+
+.image-1 {
+    width: 444px;
+    height: 444px;
+}
+
+.secti-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 82px;
+    padding-bottom: 99px;
+}
+
+@media only screen and (max-width: 481px) {
+    .input-borde {
+        width: 400px;
+        margin-bottom: 15px;
+       
+
+    }
+    .input-borde-mensagem {
+      width: 400px;
+    }
+    .image-1 {
+        display: none;
+    }   
+
+
+}

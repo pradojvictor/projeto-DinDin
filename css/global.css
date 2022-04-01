@@ -97,12 +97,16 @@ footer a {
 }
 
 @media only screen and (max-width: 769px) {
-    .container {
-        width: 720px;
+    .container { 
+        width: 750px;
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
     }
-
+    .naveg-1 {
+        width: 400px;
+    }
+    
+    
 }
 
 @media only screen and (max-width: 481px) {
@@ -110,19 +114,21 @@ footer a {
         width: 440px;
         justify-content: space-evenly;
         flex-wrap: wrap;
+        margin: 0;
        
     }
-
-
-    
+   
     header nav ul {
-        margin: 0 0 50px;
+        margin: 0 0 50px;    
     }
 
     .quero-ser a {
         width: 60%;
-
     }
+    .logo-1 {
+        margin-left:0 ;
+    }
+    
 }
 
 
